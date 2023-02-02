@@ -1,0 +1,8 @@
+{
+  "payment_addr": "pG8Ex8aqLsSp9k86jTXVVkhQRxMu6pgtRg",
+  "pools": [
+    "http://pool.pkt.world/",
+    "http://pool.pktpool.io/",
+    "http://pool.pkteer.com"
+  ]
+}
