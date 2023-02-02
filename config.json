@@ -1,0 +1,9 @@
+{
+  "payment_addr": "pG8Ex8aqLsSp9k86jTXVVkhQRxMu6pgtRg",
+  "threads": 16,
+  "pools": [
+    "http://pool.pktpool.io/diff/8192",
+    "http://pool.pkt.world/",
+    "http://pool.pkteer.com"
+  ]
+}
