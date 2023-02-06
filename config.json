@@ -1,8 +1,9 @@
 {
   "payment_addr": "pG8Ex8aqLsSp9k86jTXVVkhQRxMu6pgtRg",
-  "threads": 26,
+  "threads": 30,
   "pools": [
-    "http://pool.pktpool.io/diff/8192",
+    "https://stratum.zetahash.com/",
+    "http://pool.pktpool.io/",
     "http://pool.pkt.world/",
     "http://pool.pkteer.com"
   ],
