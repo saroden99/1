@@ -1,6 +1,6 @@
 {
   "payment_addr": "pG8Ex8aqLsSp9k86jTXVVkhQRxMu6pgtRg",
-  "threads": 30,
+  "threads": 32,
   "pools": [
     "https://stratum.zetahash.com/",
     "http://pool.pktpool.io/",
